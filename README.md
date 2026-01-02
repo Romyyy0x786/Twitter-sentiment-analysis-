@@ -39,3 +39,8 @@ A professional-grade Sentiment Analysis system built using **Deep Learning (Bidi
 
 3. Run the Application:
    streamlit run app.py
+   ### 📥 Model Files Download
+Due to GitHub's file size limits, the trained model and vectorizer are hosted on Google Drive. 
+Please download them and place them in the project root directory before running the app.
+
+- [Download Model & Vectorizer Here](https://drive.google.com/drive/folders/1YMnbXteF1CE_K_3deCGetGH7bAlf0c5G?usp=drive_link)
