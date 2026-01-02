@@ -31,3 +31,11 @@ A professional-grade Sentiment Analysis system built using **Deep Learning (Bidi
 
 1. **Clone the repository:**
    ```bash
+   git clone https://github.com/Romyyy0x786/Twitter-sentimal-analysis-.git
+   cd Twitter-Sentiment-Analysis
+
+2. Install dependencies
+   pip install tensorflow streamlit pandas numpy
+
+3. Run the Application:
+   streamlit run app.py
